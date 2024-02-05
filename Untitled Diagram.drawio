@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T12:23:39.886Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tMmMl9vzOfojlJ7BBF9d" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T12:28:06.417Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9NZNrWJOeuOxLalXkvMf" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1430" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -701,7 +701,7 @@
         <mxCell id="zAUp7dM-AJPnExlxfuv2-300" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;exit; type not handled&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="606.5" y="630" width="153.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zAUp7dM-AJPnExlxfuv2-302" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;[Ghidra Addr] handle_error&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zAUp7dM-AJPnExlxfuv2-302" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;[Ghidra Addr]&amp;nbsp; check_error_call_type&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="608" y="340" width="190.5" height="40" as="geometry" />
         </mxCell>
       </root>
